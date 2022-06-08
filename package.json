@@ -1,0 +1,22 @@
+{
+  "name": "rassotheme",
+  "displayName": "rassotheme",
+  "description": "The Pleasent Looking Theme Good For Developers who code all the night",
+  "version": "0.0.1",
+  "publisher": "Rasla",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rassotheme",
+        "uiTheme": "hc-black",
+        "path": "./themes/rassotheme-color-theme.json"
+      }
+    ]
+  }
+}
