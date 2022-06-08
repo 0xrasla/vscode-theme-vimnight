@@ -3,6 +3,7 @@
   "displayName": "rassotheme",
   "description": "The Pleasent Looking Theme Good For Developers who code all the night",
   "version": "0.3.0",
+  "icon": "icon.jpeg",
   "repository": {
     "url": "https://github.com/0xrasla/rassotheme.git"
   },
