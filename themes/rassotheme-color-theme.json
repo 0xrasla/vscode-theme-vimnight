@@ -1,5 +1,5 @@
 {
-	"name": "rassotheme",
+	"name": "Vim Night",
 	"type" : "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -22,11 +22,45 @@
 			}
 		},
 		{
+			"name": "html",
+			"scope": "text.html.jinja",
+			"settings": {
+				"foreground": "#e0e0e0"
+			}
+		},
+		{
+			"name": "html",
+			"scope": "entity.name.tag.html",
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"scope": "string.quoted.double.html",
+			"settings": {
+				"foreground": "#dc7e13"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.html",
+			"name": "html",
+			"settings": {
+				"foreground": "#ffffff77"
+			}
+		},
+		{
 			"name": "haskell variable generic-type",
 			"scope": "variable.other.generic-type.haskell",
 			"settings": {
 				"foreground": "#dae026bd"
 			}
+		},
+		{
+			"name": "da",
+			"scope": "string.quoted.double.html",
+			"settings": {
+					"foreground": "#c7eb10"
+			}	
 		},
 		{
 			"name": "haskell storage type",
