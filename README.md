@@ -1,4 +1,4 @@
-# Rasso-theme✨
+# Vim Night✨
 
 ### Hey There! I am Rasla, Self Taught Developer Based in India. I Love Dark And High Contrast Themes Very Much. I Dont Want to code in a terminal based editor Like Vim or Emacs. But i want the feel of terminal color schemes in my Favorite Editor. So I create My Own Theme.
 
