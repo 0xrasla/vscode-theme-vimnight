@@ -23,10 +23,10 @@
     1. Install Visual Studio Code
     2. Launch Visual Studio Code
     3. Choose the extension from menu
-    4. Search for rassotheme
+    4. Search for Vim Night
     5. Click on the extension and Install it
     6. Click Reload to reload vscode
-    7. Click on the bottom right corner of the editor and choose "Color Theme" and Select "Rassotheme"
+    7. Click on the bottom right corner of the editor and choose "Color Theme" and Select "Vim Night"
     8. Rate me if you like my theme.
 
 # Misc
@@ -37,5 +37,3 @@
 
     Any Relevant Changes for each version are documented in the changelog.
     Please  update and check the changelog before filing any issues, as they may have already been taken care of.
-
-### I Run a youtube channel called [Rasla's Youtube](https://www.youtube.com/c/Codingwithrasla). Make sure to subscribe.
